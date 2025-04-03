@@ -1,8 +1,3 @@
-
-#  Spaceship Titanic: A complete guide
-
-
-# Spaceship Titanic-Top 6%|For Beginners
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
